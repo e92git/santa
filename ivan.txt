@@ -1,0 +1,16 @@
+Проверить зависимости:
+flutter doctor
+
+Запустит вручную командой (если ошибка в iOS):
+flutter run
+
+Как запускать андроид студио (через терминал):
+open /Applications/Android\ Studio.app
+
+БД:
+mysql://gen_user:i9tbl4odk@85.193.83.218:3306/default_db
+Cooperate
+85.193.83.218
+gen_user
+i9tbl4odk
+Private ip 172.16.16.6
